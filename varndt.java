@@ -7,7 +7,7 @@ package JAVAi; //  the package is just folder name
 
 public class varndt {
     public static void main(String[] args) {
-        System.out.println("Hello We Are Using different datatypes Like integer, float , long , char , string 😁");
+        System.out.println("Hello We Are Using different datatypes Like integer, float , long , char , string ");
 
         //entering int datatype
         int var = 20;//the value of int shouldnt be in any quotes.
@@ -28,6 +28,6 @@ public class varndt {
         //entering string datatype
         String text = "Hello Everyone 😁";//the value of float should be in double any quotes
         System.out.println("The value of String is: "+text);
-
+ 
     }
 }
