@@ -3,8 +3,6 @@ Here How to assign value,
 syntax: 
 datatype variable_name = value ;
 */
-package JAVAi; //  the package is just folder name
-
 public class varndt {
     public static void main(String[] args) {
         System.out.println("Hello We Are Using different datatypes Like integer, float , long , char , string ");
